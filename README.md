@@ -16,42 +16,48 @@ I’m passionate about building clean, responsive, and functional web applicatio
 ## 🧰 Tech Stack
 
 ### Languages
+- **Python** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-3776AB)
+- **Java** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-FFA500)
+- **PHP** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-777BB4)
+- **JavaScript** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-F7DF1E)
+- **TypeScript** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-3178C6)
 
-**Python**  
-![Python](https://img.shields.io/badge/Proficiency-80%25-blue)
+### Frontend / Frameworks & Libraries
+- **React** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-61DAFB)
+- **Vue.js** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-42B883)
 
-**JavaScript**  
-![JavaScript](https://img.shields.io/badge/Proficiency-60%25-yellow)
+### Backend / Frameworks
+- **Django** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-2ad593)
+- **Flask** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-white)
+- **Spring Boot** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-6DB33F)
+- **Laravel** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-f55247)
 
-**TypeScript**  
-![TypeScript](https://img.shields.io/badge/Proficiency-40%25-blue)
+### Databases
+- **MySQL** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-00758F)
+- **PostgreSQL** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-336791)
+- **Oracle** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-F80000)
 
-**Java**  
-![Java](https://img.shields.io/badge/Proficiency-40%25-orange)
+### Dev Tools
+- **Git & GitHub** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-F05032)
+- **Linux** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-FCC624)
+- **Docker** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-2496ED)
+- **Postman** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-FF6C37)
 
-**PHP**  
-![PHP](https://img.shields.io/badge/Proficiency-40%25-purple)
+### Styling
+- **Bootstrap** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-7952B3)
+- **Tailwind CSS** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-06B6D4)
+- **CSS3** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-1572B6)
 
-### Frameworks & Libraries
-
-**Django**  
-![Django](https://img.shields.io/badge/Proficiency-60%25-green)
-
-**Flask**  
-![Flask](https://img.shields.io/badge/Proficiency-40%25-lightgrey)
-
-**Spring Boot**  
-![Spring Boot](https://img.shields.io/badge/Proficiency-40%25-brightgreen)
-
-**Laravel**  
-![Laravel](https://img.shields.io/badge/Proficiency-40%25-red)
-
-**React**  
-![React](https://img.shields.io/badge/Proficiency-60%25-blue)
-
-**Vue.js**  
-![Vue.js](https://img.shields.io/badge/Proficiency-60%25-green)
-
+### IDE & Others
+- **PyCharm** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-21D789)
+- **PhpStorm** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-777BB4)
+- **WebStorm** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-1DA1F2)
+- **IntelliJ IDEA** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-FE2857)
+- **DataGrip** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-22C55E)
+- **VS Code** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-007ACC)
+- **Cursor** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-cccccc)
+- **ClickUp** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-7B68EE)
+  
 ## 📌 Featured Projects
 
 ### NIKE Landing Page
