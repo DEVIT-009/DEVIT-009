@@ -93,7 +93,7 @@ Backend blood donation system using Django REST Framework, MySQL, ORM, and authe
 
 - Portfolio: https://helloimdevit.com
 - GitHub: https://github.com/DEVIT-009
-- LinkedIn: https://www.linkedin.com/in/devit-tep-365a03305/
+- LinkedIn: https://www.linkedin.com/in/devit009
 - Telegram: https://t.me/DEVIT_009
 - Facebook: https://www.facebook.com/Tep.Devit.9
 
