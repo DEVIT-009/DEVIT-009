@@ -57,7 +57,19 @@ I’m passionate about building clean, responsive, and functional web applicatio
 - **VS Code** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-007ACC)
 - **Cursor** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-cccccc)
 - **ClickUp** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-7B68EE)
-  
+
+## 🧰 Tech Stack
+
+| Category | Technology | Proficiency |
+|---|---|---|
+| Language | Python | 80% |
+| Language | JavaScript | 60% |
+| Backend | Django | 60% |
+| Backend | Flask | 40% |
+| Frontend | React | 60% |
+| Database | MySQL | 80% |
+| Tool | Git & GitHub | 80% |
+
 ## 📌 Featured Projects
 
 ### NIKE Landing Page
