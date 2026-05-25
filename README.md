@@ -101,7 +101,7 @@ A backend REST API for a health platform with authentication and ORM-based data 
 
 ---
 
-### [✓ Kilo Blood Donation API](https://your-link-here.com)
+### [✔︎ Kilo Blood Donation API](https://your-link-here.com)
 > Django · DRF · MySQL · ORM
 
 A backend system managing blood donation records with authentication and REST endpoints.
