@@ -12,49 +12,45 @@ I’m passionate about building clean, responsive, and functional web applicatio
 - 🛠️ Built 16+ projects independently and in teams
 - 📍 Based in Phnom Penh, Cambodia
 - 🤝 Open to freelance, internship, and full-time opportunities
+  
 ## 🧰 Tech Stack
 
 ### Languages
-- Python — 80%
-- JavaScript — 60%
-- TypeScript — 40%
-- Java — 40%
-- PHP — 40%
 
-### Frontend
-- React — 60%
-- Vue.js — 60%
-- HTML5 — 80%
-- CSS3 — 80%
-- Bootstrap — 80%
-- Tailwind CSS — 80%
+**Python**  
+![Python](https://img.shields.io/badge/Proficiency-80%25-blue)
 
-### Backend / Frameworks
-- Django — 60%
-- Flask — 40%
-- Spring Boot — 40%
-- Laravel — 40%
+**JavaScript**  
+![JavaScript](https://img.shields.io/badge/Proficiency-60%25-yellow)
 
-### Databases
-- MySQL — 80%
-- Oracle — 60%
-- PostgreSQL — 40%
+**TypeScript**  
+![TypeScript](https://img.shields.io/badge/Proficiency-40%25-blue)
 
-### Dev Tools
-- Git & GitHub — 80%
-- Linux — 40%
-- Docker — 40%
-- Postman — 80%
-- VS Code — 80%
-- Cursor — 60%
-- DataGrip — 60%
-- PyCharm — 80%
-- PhpStorm — 60%
-- WebStorm — 60%
-- IntelliJ IDEA — 60%
+**Java**  
+![Java](https://img.shields.io/badge/Proficiency-40%25-orange)
 
-### Project / Productivity Tools
-- ClickUp — 40%
+**PHP**  
+![PHP](https://img.shields.io/badge/Proficiency-40%25-purple)
+
+### Frameworks & Libraries
+
+**Django**  
+![Django](https://img.shields.io/badge/Proficiency-60%25-green)
+
+**Flask**  
+![Flask](https://img.shields.io/badge/Proficiency-40%25-lightgrey)
+
+**Spring Boot**  
+![Spring Boot](https://img.shields.io/badge/Proficiency-40%25-brightgreen)
+
+**Laravel**  
+![Laravel](https://img.shields.io/badge/Proficiency-40%25-red)
+
+**React**  
+![React](https://img.shields.io/badge/Proficiency-60%25-blue)
+
+**Vue.js**  
+![Vue.js](https://img.shields.io/badge/Proficiency-60%25-green)
 
 ## 📌 Featured Projects
 
