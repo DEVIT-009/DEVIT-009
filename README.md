@@ -70,6 +70,18 @@ I’m passionate about building clean, responsive, and functional web applicatio
 | Database | MySQL | 80% |
 | Tool | Git & GitHub | 80% |
 
+## 🧰 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-80%25-3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-40%25-3178C6)
+
+### Backend
+![Django](https://img.shields.io/badge/Django-60%25-2ad593)
+![Flask](https://img.shields.io/badge/Flask-40%25-white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-40%25-6DB33F)
+
 ## 📌 Featured Projects
 
 ### NIKE Landing Page
