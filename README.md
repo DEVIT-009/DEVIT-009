@@ -12,75 +12,61 @@ I’m passionate about building clean, responsive, and functional web applicatio
 - 🛠️ Built 16+ projects independently and in teams
 - 📍 Based in Phnom Penh, Cambodia
 - 🤝 Open to freelance, internship, and full-time opportunities
-  
-## 🧰 Tech Stack
+  # 🧰 Tech Stack
 
-### Languages
-- **Python** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-3776AB)
-- **Java** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-FFA500)
-- **PHP** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-777BB4)
-- **JavaScript** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-F7DF1E)
-- **TypeScript** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-3178C6)
+## Languages
+| Tech | Proficiency |
+|------|-------------|
+| Python | ████████░░ 80% |
+| HTML5 | ████████░░ 80% |
+| CSS3 | ████████░░ 80% |
+| JavaScript | ██████░░░░ 60% |
+| TypeScript | ████░░░░░░ 40% |
+| Java | ████░░░░░░ 40% |
+| PHP | ████░░░░░░ 40% |
 
-### Frontend / Frameworks & Libraries
-- **React** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-61DAFB)
-- **Vue.js** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-42B883)
+## Frontend
+| Tech | Proficiency |
+|------|-------------|
+| Bootstrap | ████████░░ 80% |
+| Tailwind CSS | ████████░░ 80% |
+| React | ██████░░░░ 60% |
+| Vue.js | ██████░░░░ 60% |
 
-### Backend / Frameworks
-- **Django** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-2ad593)
-- **Flask** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-white)
-- **Spring Boot** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-6DB33F)
-- **Laravel** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-f55247)
+## Backend / Frameworks
+| Tech | Proficiency |
+|------|-------------|
+| Django | ██████░░░░ 60% |
+| Flask | ████░░░░░░ 40% |
+| Spring Boot | ████░░░░░░ 40% |
+| Laravel | ████░░░░░░ 40% |
 
-### Databases
-- **MySQL** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-00758F)
-- **PostgreSQL** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-336791)
-- **Oracle** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-F80000)
+## Databases
+| Tech | Proficiency |
+|------|-------------|
+| MySQL | ████████░░ 80% |
+| Oracle | ██████░░░░ 60% |
+| PostgreSQL | ████░░░░░░ 40% |
 
-### Dev Tools
-- **Git & GitHub** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-F05032)
-- **Linux** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-FCC624)
-- **Docker** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-2496ED)
-- **Postman** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-FF6C37)
+## Dev Tools
+| Tool | Proficiency |
+|------|-------------|
+| Git & GitHub | ████████░░ 80% |
+| Postman | ████████░░ 80% |
+| VS Code | ████████░░ 80% |
+| PyCharm | ████████░░ 80% |
+| Cursor | ██████░░░░ 60% |
+| DataGrip | ██████░░░░ 60% |
+| PhpStorm | ██████░░░░ 60% |
+| WebStorm | ██████░░░░ 60% |
+| IntelliJ IDEA | ██████░░░░ 60% |
+| Linux | ████░░░░░░ 40% |
+| Docker | ████░░░░░░ 40% |
 
-### Styling
-- **Bootstrap** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-7952B3)
-- **Tailwind CSS** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-06B6D4)
-- **CSS3** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-1572B6)
-
-### IDE & Others
-- **PyCharm** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-21D789)
-- **PhpStorm** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-777BB4)
-- **WebStorm** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-1DA1F2)
-- **IntelliJ IDEA** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-FE2857)
-- **DataGrip** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-22C55E)
-- **VS Code** ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-007ACC)
-- **Cursor** ![Proficiency](https://img.shields.io/badge/Proficiency-60%25-cccccc)
-- **ClickUp** ![Proficiency](https://img.shields.io/badge/Proficiency-40%25-7B68EE)
-
-## 🧰 Tech Stack
-
-| Category | Technology | Proficiency |
-|---|---|---|
-| Language | Python | 80% |
-| Language | JavaScript | 60% |
-| Backend | Django | 60% |
-| Backend | Flask | 40% |
-| Frontend | React | 60% |
-| Database | MySQL | 80% |
-| Tool | Git & GitHub | 80% |
-
-## 🧰 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-80%25-3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-40%25-3178C6)
-
-### Backend
-![Django](https://img.shields.io/badge/Django-60%25-2ad593)
-![Flask](https://img.shields.io/badge/Flask-40%25-white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-40%25-6DB33F)
+## Project / Productivity
+| Tool | Proficiency |
+|------|-------------|
+| ClickUp | ████░░░░░░ 40% |
 
 ## 📌 Featured Projects
 
