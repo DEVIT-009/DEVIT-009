@@ -59,26 +59,52 @@ I’m passionate about building clean, responsive, and functional web applicatio
 
 ## 📌 Featured Projects
 
-### NIKE Landing Page
-A clean and responsive frontend landing page built with React and Tailwind CSS.
+### 🟠 NIKE Landing Page
+> React · Tailwind CSS
 
-### Full-Feature Movies
-A movie web application using React Router and Tailwind CSS.
+A clean and responsive frontend landing page inspired by Nike's brand aesthetic.
 
-### Test-English Clone
-A responsive clone project built with Bootstrap.
+---
 
-### Apple Store
-An e-commerce frontend project with filtering and React Router.
+### 🎬 Full-Feature Movies
+> React Router · Tailwind CSS
 
-### Vue-Career
-A job hiring platform frontend with API integration and CRUD features.
+A movie web application with dynamic routing and a modern browsing experience.
 
-### Kilo Health API
-Backend REST API project built with Django, Django REST Framework, MySQL, ORM, and authentication.
+---
 
-### Kilo Blood Donation API
-Backend blood donation system using Django REST Framework, MySQL, ORM, and authentication.
+### 📝 Test-English Clone
+> Bootstrap
+
+A pixel-accurate responsive clone of the Test-English platform.
+
+---
+
+### 🛍️ Apple Store
+> React · React Router
+
+An e-commerce frontend with product filtering and smooth navigation.
+
+---
+
+### 💼 Vue-Career
+> Vue.js · REST API
+
+A job hiring platform with full API integration and CRUD functionality.
+
+---
+
+### 🔧 Kilo Health API
+> Django · DRF · MySQL · ORM
+
+A backend REST API for a health platform with authentication and ORM-based data management.
+
+---
+
+### 🩸 Kilo Blood Donation API
+> Django · DRF · MySQL · ORM
+
+A backend system managing blood donation records with authentication and REST endpoints.
 
 ## 🎓 Education & Learning
 
