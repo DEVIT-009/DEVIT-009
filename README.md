@@ -12,9 +12,10 @@ I’m passionate about building clean, responsive, and functional web applicatio
 - 🛠️ Built 16+ projects independently and in teams
 - 📍 Based in Phnom Penh, Cambodia
 - 🤝 Open to freelance, internship, and full-time opportunities
-  # 🧰 Tech Stack
 
-## Languages
+## 🧰 Tech Stack
+
+### Languages
 | Tech | Proficiency |
 |------|-------------|
 | Python | ████████░░ 80% |
@@ -25,7 +26,7 @@ I’m passionate about building clean, responsive, and functional web applicatio
 | Java | ████░░░░░░ 40% |
 | PHP | ████░░░░░░ 40% |
 
-## Frontend
+### Frontend
 | Tech | Proficiency |
 |------|-------------|
 | Bootstrap | ████████░░ 80% |
@@ -33,7 +34,7 @@ I’m passionate about building clean, responsive, and functional web applicatio
 | React | ██████░░░░ 60% |
 | Vue.js | ██████░░░░ 60% |
 
-## Backend / Frameworks
+### Backend / Frameworks
 | Tech | Proficiency |
 |------|-------------|
 | Django | ██████░░░░ 60% |
@@ -41,32 +42,20 @@ I’m passionate about building clean, responsive, and functional web applicatio
 | Spring Boot | ████░░░░░░ 40% |
 | Laravel | ████░░░░░░ 40% |
 
-## Databases
+### Databases
 | Tech | Proficiency |
 |------|-------------|
 | MySQL | ████████░░ 80% |
 | Oracle | ██████░░░░ 60% |
 | PostgreSQL | ████░░░░░░ 40% |
 
-## Dev Tools
+### Dev Tools
 | Tool | Proficiency |
 |------|-------------|
 | Git & GitHub | ████████░░ 80% |
 | Postman | ████████░░ 80% |
-| VS Code | ████████░░ 80% |
-| PyCharm | ████████░░ 80% |
-| Cursor | ██████░░░░ 60% |
-| DataGrip | ██████░░░░ 60% |
-| PhpStorm | ██████░░░░ 60% |
-| WebStorm | ██████░░░░ 60% |
-| IntelliJ IDEA | ██████░░░░ 60% |
 | Linux | ████░░░░░░ 40% |
 | Docker | ████░░░░░░ 40% |
-
-## Project / Productivity
-| Tool | Proficiency |
-|------|-------------|
-| ClickUp | ████░░░░░░ 40% |
 
 ## 📌 Featured Projects
 
